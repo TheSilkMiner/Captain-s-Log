@@ -1,0 +1,29 @@
+{
+  "modListVersion": "2",
+  "modList": [
+    {
+      "modid": "captainslog",
+      "name": "Captain's Log",
+      "description": "Simple and immersive audio logs for your storytelling needs",
+      "version": "1.0.0",
+      "mcversion": "1.12.2",
+      "url": "",
+      "updateUrl": "Curse",
+      "authorList": [
+        "TheSilkMiner"
+      ],
+      "credits": "sciwhiz for the name",
+      "logoFile": "captains_log_logo.png",
+      "screenshots": [
+      ],
+      "parent": "",
+      "requiredMods": [
+      ],
+      "dependencies": [
+      ],
+      "dependants": [
+      ],
+      "useDependencyInformation": "false"
+    }
+  ]
+}
